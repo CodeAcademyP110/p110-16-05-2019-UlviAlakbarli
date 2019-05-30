@@ -1,0 +1,7 @@
+C:\Users\Ulvi\Desktop\15 may mesq\15 may mesq\bin\Debug\15 may mesq.exe.config
+C:\Users\Ulvi\Desktop\15 may mesq\15 may mesq\bin\Debug\15 may mesq.exe
+C:\Users\Ulvi\Desktop\15 may mesq\15 may mesq\bin\Debug\15 may mesq.pdb
+C:\Users\Ulvi\Desktop\15 may mesq\15 may mesq\obj\Debug\15 may mesq.csprojAssemblyReference.cache
+C:\Users\Ulvi\Desktop\15 may mesq\15 may mesq\obj\Debug\15 may mesq.csproj.CoreCompileInputs.cache
+C:\Users\Ulvi\Desktop\15 may mesq\15 may mesq\obj\Debug\15 may mesq.exe
+C:\Users\Ulvi\Desktop\15 may mesq\15 may mesq\obj\Debug\15 may mesq.pdb
